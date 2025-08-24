@@ -79,12 +79,5 @@ You’ll be prompted to:
 This project is released under the **MIT License** (see `LICENSE`).  
 Make sure to include `THIRD_PARTY_NOTICES.md` when redistributing.
 
----
-
-## ⬆ Publishing a GitHub Release (Quick Steps)
-1. Create a new tag/version, e.g. `v1.0.0`.
-2. Put your compiled `MIDIBreakout.exe` into this folder.
-3. Zip everything as `MIDIBreakout-v1.0.0.zip`.
-4. On GitHub: **Releases → Draft a new release** → upload the ZIP → publish.
 
 Enjoy!
